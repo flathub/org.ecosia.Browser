@@ -91,8 +91,8 @@ modules:
 
     sources:
       - type: archive
-        url: https://app-cms-repo.ecosia-browser.net/f4d3472f-762e-4aea-a1ae-5fb94d0b561d/build/148.1.7778.10/ecosiabrowser-148.1.7778.10-linux-amd64.tar.xz
-        sha256: 6233d7685212a955c4ebf9ac085e5998c62cbafb2fdb50140f42be61a916fc14
+        url: https://app-cms-repo.ecosia-browser.net/f4d3472f-762e-4aea-a1ae-5fb94d0b561d/build/155.2.8059.13/ecosiabrowser-155.2.8059.13-linux-amd64.tar.xz
+        sha256: 6a389ce1375cac3b1773baaf32af7b2de6ff6b17622280a2e86f77e01223f0f8
         dest: ecosia
       - type: script
         dest-filename: ecosiabrowser.sh
